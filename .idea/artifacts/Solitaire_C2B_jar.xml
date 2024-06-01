@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Solitaire-C2B:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Solitaire_C2B_jar</output-path>
+    <root id="archive" name="Solitaire-C2B.jar">
+      <element id="module-output" name="Solitaire-C2B" />
+    </root>
+  </artifact>
+</component>
